@@ -1,5 +1,4 @@
-# jdlegaspi
-    
+# jdlegaspi    
 Name: John Dewey B. Legaspi<br>
 Nickname: Dewey<br>
 Student Number: 2015-08799<br>
@@ -9,5 +8,3 @@ Email Address: jblegaspi4@up.edu.ph<br>
 Contact Number: 09074553479<br>
 Person to contact in case of emergency: Nancy B. Legaspi<br>
 Contact Number: 09093758278<br>
-
-
